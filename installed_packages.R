@@ -15,6 +15,8 @@ install.packages("openxlsx")
 install.packages("learnr")
 install.packages("pryr")
 
+install.packages("reticulate")
+py_config()
 
 
 
